@@ -1,4 +1,4 @@
-# Revanced
+# ReVanced
 
 This is compiled version of ReVanced to APK file
 
