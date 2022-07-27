@@ -1,3 +1,7 @@
+# Revanced
+
+This is compiled version of ReVanced to APK file
+
 # ReVanced Documentation
 
 Instructions to build and install ReVanced.
