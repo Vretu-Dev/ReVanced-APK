@@ -2,9 +2,6 @@
 
 This is compiled to APK file version of ReVanced
 
-# ReVanced Documentation
-
-Instructions to build and install ReVanced.
 
 # Wiki
 
