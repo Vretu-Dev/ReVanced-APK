@@ -1,6 +1,6 @@
 # ReVanced
 
-This is compiled version of ReVanced to APK file
+This is compiled to APK file version of ReVanced
 
 # ReVanced Documentation
 
