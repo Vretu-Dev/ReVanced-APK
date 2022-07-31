@@ -2,6 +2,9 @@
 
 This is compiled to APK file version of ReVanced
 
+**IMPORTANT**
+Before downloading make sure you have microg installed, if not use revanced without microg!
+
 
 # Wiki
 
